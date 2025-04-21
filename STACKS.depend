@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1744285308 source:c:\users\user\desktop\c\usingfunctions\stacks\main.cpp
+	<iostream>
+	<string>
+	<limits>
+
